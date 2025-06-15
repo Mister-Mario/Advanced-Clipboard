@@ -1,0 +1,20 @@
+<map id="ExpandEvent" name="ExpandEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,819,392,924"/>
+<area shape="rect" id="Node000002" href="$classClipboardEvent.html" title=" " alt="" coords="58,591,207,676"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,685,221,754,276,817,272,820,217,758,166,689"/>
+<area shape="rect" id="Node000003" href="$classMemoryCellManager.html" title=" " alt="" coords="543,148,741,433"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="716,433,717,461,713,487,676,588,656,627,634,662,608,694,577,726,496,797,453,825,408,846,406,841,451,820,492,793,573,722,604,691,629,659,651,625,671,586,707,486,712,460,711,434"/>
+<area shape="rect" id="Node000006" href="$classShortCutsViewModel.html" title=" " alt="" coords="232,511,417,756"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="552,435,508,489,432,558,428,554,504,485,548,432"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="464,5,668,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="569,85,574,123,576,132,571,133,569,125,564,86"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="692,13,744,78"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="711,79,694,133,689,131,706,78"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="327,756,327,802,322,802,322,756"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,258,36,323"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="19,323,17,361,20,405,33,448,43,468,57,485,75,498,92,504,129,504,170,500,193,501,218,509,217,514,192,507,170,505,129,509,91,509,72,503,53,489,39,471,28,450,15,406,12,361,13,323"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="66,258,189,323"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="125,324,122,360,124,403,134,447,143,467,155,485,167,495,181,499,198,502,219,509,217,514,197,507,180,504,165,500,151,488,138,469,129,448,119,404,117,360,120,323"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="217,258,433,323"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="327,323,327,494,322,494,322,323"/>
+</map>

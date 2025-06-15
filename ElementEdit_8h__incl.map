@@ -1,0 +1,21 @@
+<map id="Clipboard++/RmlUI/Elements/ElementEdit.h" name="Clipboard++/RmlUI/Elements/ElementEdit.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,5,499,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,172,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,48,147,92,145,87,318,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,93,397,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="370,48,323,86,320,82,367,43"/>
+<area shape="rect" id="Node000004" href="$EditViewModel_8h.html" title=" " alt="" coords="421,93,551,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="416,43,463,82,459,86,413,48"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="575,93,653,119"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="446,43,569,86,567,91,444,48"/>
+<area shape="rect" id="Node000005" href="$KeyShortCut_8h.html" title=" " alt="" coords="383,167,589,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="489,119,489,153,483,153,483,119"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="343,240,405,265"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="440,121,403,139,387,152,374,168,368,182,366,197,369,226,364,227,361,197,363,180,369,165,383,148,400,135,438,116"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="547,240,692,265"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="528,116,568,135,587,148,603,165,617,195,622,226,617,226,612,197,598,168,583,152,565,139,526,121"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="469,194,406,235,403,230,467,190"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="457,240,515,265"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="489,192,489,226,483,226,483,192"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="509,190,587,231,584,236,506,194"/>
+</map>

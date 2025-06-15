@@ -1,0 +1,24 @@
+<map id="ImportFileEvent" name="ImportFileEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="299,684,453,789"/>
+<area shape="rect" id="Node000002" href="$classClipboardEvent.html" title=" " alt="" coords="5,436,155,521"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,533,134,578,169,619,199,645,233,667,300,703,298,708,230,672,196,649,165,623,129,581,102,535"/>
+<area shape="rect" id="Node000003" href="$classMemoryCellManager.html" title=" " alt="" coords="179,336,376,621"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,621,281,659,291,674,286,677,276,661,264,622"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="62,171,266,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,250,174,281,183,311,186,320,181,321,177,313,169,282,164,251"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="290,178,342,243"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="314,244,303,320,298,319,309,243"/>
+<area shape="rect" id="Node000006" href="$classFileManager.html" title=" " alt="" coords="400,366,549,591"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="469,592,461,627,448,661,442,672,437,669,443,659,456,626,464,591"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="551,446,569,457,576,478,573,493,566,503,562,500,568,491,571,479,565,460,548,450"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="449,178,500,243"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="477,243,477,350,472,350,472,243"/>
+<area shape="rect" id="Node000008" href="$classTranslationManager.html" title=" " alt="" coords="575,148,742,273"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="684,273,704,349,712,394,717,441,716,489,710,536,696,581,673,623,654,646,631,665,579,696,524,716,470,729,469,724,522,711,577,691,628,661,650,642,668,620,691,579,704,535,711,488,711,441,707,395,699,350,679,274"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="618,275,561,357,557,354,614,272"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="743,192,761,198,769,210,766,219,759,224,756,220,762,216,763,211,758,202,742,197"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="521,5,671,85"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="609,85,621,123,625,132,620,134,616,125,604,86"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="696,13,747,78"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="712,79,694,125,691,134,686,132,690,123,707,77"/>
+</map>

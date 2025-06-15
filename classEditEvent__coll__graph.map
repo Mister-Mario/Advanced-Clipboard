@@ -1,0 +1,20 @@
+<map id="EditEvent" name="EditEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,744,333,849"/>
+<area shape="rect" id="Node000002" href="$classClipboardEvent.html" title=" " alt="" coords="5,496,155,581"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,592,138,636,169,680,224,742,220,745,165,683,133,639,107,595"/>
+<area shape="rect" id="Node000003" href="$classMemoryCellManager.html" title=" " alt="" coords="179,396,376,681"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="280,681,280,728,275,728,275,681"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="37,201,241,281"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,280,151,325,165,371,174,389,169,392,160,373,146,326,139,281"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="265,208,317,273"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="292,274,287,380,282,379,287,273"/>
+<area shape="rect" id="Node000006" href="$classEditViewModel.html" title=" " alt="" coords="400,436,573,641"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="485,642,473,684,451,722,430,743,404,760,350,783,348,778,402,755,426,739,447,718,468,682,480,641"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="405,5,542,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="471,86,465,148,462,241,465,333,473,420,468,420,460,334,457,241,460,148,466,85"/>
+<area shape="rect" id="Node000008" href="$classKeyShortCut.html" title=" " alt="" coords="569,148,687,333"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="481,85,487,105,498,122,510,131,522,135,536,138,551,146,558,151,554,155,548,150,534,143,521,140,507,136,494,126,482,107,475,87"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="587,335,545,422,540,420,582,332"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="668,13,719,78"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="685,79,667,133,662,132,680,77"/>
+</map>
