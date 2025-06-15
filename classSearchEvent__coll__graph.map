@@ -1,19 +1,15 @@
 <map id="SearchEvent" name="SearchEvent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="205,819,335,924"/>
-<area shape="rect" id="Node000002" href="$classClipboardEvent.html" title=" " alt="" coords="174,591,323,676"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,690,268,818,263,819,251,690"/>
-<area shape="rect" id="Node000003" href="$classShortCutsViewModel.html" title=" " alt="" coords="348,511,533,756"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="355,758,319,807,315,804,350,755"/>
-<area shape="rect" id="Node000004" href="$classMemoryCellManager.html" title=" " alt="" coords="85,148,282,433"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,432,191,461,208,485,221,496,234,501,263,503,296,501,314,503,334,509,333,514,313,508,295,506,263,508,233,507,218,500,204,488,186,463,176,434"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,209,85"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="110,85,115,123,117,132,112,133,110,125,105,86"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="233,13,285,78"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="252,79,235,133,230,131,247,78"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="372,258,403,323"/>
-<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="387,324,384,398,386,442,391,486,393,494,388,495,386,487,381,443,379,398,382,324"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="433,258,555,323"/>
-<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="492,324,467,487,466,495,461,494,462,486,487,323"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="583,258,799,323"/>
-<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="692,324,679,402,665,447,643,488,623,514,600,537,549,577,546,572,596,533,619,510,638,485,660,445,674,401,687,323"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,676,256,781"/>
+<area shape="rect" id="Node000002" href="$classClipboardEvent.html" title=" " alt="" coords="95,448,244,533"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,547,189,676,183,676,172,547"/>
+<area shape="rect" id="Node000003" href="$classShortCutsViewModel.html" title=" " alt="" coords="269,368,454,613"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,615,240,664,235,661,271,612"/>
+<area shape="rect" id="Node000004" href="$classMemoryCellManager.html" title=" " alt="" coords="5,5,203,291"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,290,112,318,129,342,142,353,155,359,184,360,216,358,235,360,255,366,253,371,234,365,216,363,184,365,154,364,139,358,125,346,107,320,96,292"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="293,115,323,181"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="308,181,305,256,307,300,312,344,313,351,308,352,307,344,301,300,300,256,302,181"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="353,115,476,181"/>
+<area shape="poly" id="edge5_Node000003_Node000008" title=" " alt="" coords="413,181,388,344,387,352,381,351,383,344,407,180"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="504,115,720,181"/>
+<area shape="poly" id="edge6_Node000003_Node000009" title=" " alt="" coords="613,181,600,260,585,304,564,345,543,371,520,394,469,434,466,430,517,390,539,368,559,343,580,302,595,258,608,181"/>
 </map>

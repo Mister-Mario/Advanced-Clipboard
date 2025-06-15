@@ -6,11 +6,9 @@
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,545,203,664,198,664,198,545"/>
 <area shape="rect" id="Node000004" href="$classEditViewModel.html" title=" " alt="" coords="294,396,467,601"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,603,277,652,272,649,307,600"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="280,5,417,85"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="346,86,341,148,335,241,336,281,341,333,349,379,344,380,335,334,330,282,330,241,335,148,341,85"/>
-<area shape="rect" id="Node000006" href="$classKeyShortCut.html" title=" " alt="" coords="444,148,563,333"/>
-<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="356,85,362,105,373,122,385,131,397,135,411,138,426,146,433,151,430,155,423,150,409,143,396,140,383,136,369,126,358,107,351,87"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="462,335,439,382,434,380,457,332"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="543,13,594,78"/>
-<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="561,79,542,133,537,132,555,77"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="277,5,415,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="345,86,341,148,336,241,336,281,341,333,349,379,344,380,335,334,330,282,330,241,335,148,340,85"/>
+<area shape="rect" id="Node000006" href="$classKeyShortCut.html" title=" " alt="" coords="443,148,561,333"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="380,84,434,151,430,154,375,87"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="461,335,438,382,433,380,456,332"/>
 </map>
