@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['verticallyflipped_0',['VerticallyFlipped',['../RmlUi__Renderer__GL3_8cpp.html#a0ad8e469e2f69da3b841d3cdb47a9f20',1,'RmlUi_Renderer_GL3.cpp']]]
+  ['windowfocusevent_0',['WindowFocusEvent',['../classWindowFocusEvent.html#a0189c94a527d605daa28cfa02d5e6f4a',1,'WindowFocusEvent']]],
+  ['writeshortcuts_1',['WriteShortCuts',['../classKeyShortCutManager.html#ae4854270b51cebb732d6b6b87aefd295',1,'KeyShortCutManager']]]
 ];

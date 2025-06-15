@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xorigin_0',['xOrigin',['../structTGAHeader.html#a3e82f50e8e5c9be9fc8d485ada97c0a4',1,'TGAHeader']]]
+  ['yorigin_0',['yOrigin',['../structTGAHeader.html#a7c2b1da2330784f568aad8d25b02dc9b',1,'TGAHeader']]]
 ];

@@ -1,10 +1,15 @@
 var searchData=
 [
-  ['name_0',['name',['../classClipboardAdapter.html#a4ecc54ca32d88a98a1f99c0d583542ee',1,'ClipboardAdapter::name()'],['../classClipboardInterface.html#afe9dc72328612305cdc0f52f9d180223',1,'ClipboardInterface::name()'],['../classMemoryCell.html#ab87a6372177f190e5cf16ec687bf7e2c',1,'MemoryCell::name()']]],
-  ['name_5fstr_1',['name_str',['../structGfx_1_1VertShaderDefinition.html#adc7f6b24a23e7dd0a436954a7376376a',1,'Gfx::VertShaderDefinition::name_str'],['../structGfx_1_1FragShaderDefinition.html#a041c8a11a142707421003d62687f769e',1,'Gfx::FragShaderDefinition::name_str'],['../structGfx_1_1ProgramDefinition.html#a00333b904e21051999b31f5909bf2923',1,'Gfx::ProgramDefinition::name_str']]],
-  ['newshortcut_2',['newShortCut',['../classEditViewModel.html#a1d0ed0266f06e74b34366c8b6501cd0a',1,'EditViewModel']]],
-  ['nominmax_3',['NOMINMAX',['../RmlUi__Include__Windows_8h.html#a9f918755b601cf4bffca775992e6fb90',1,'RmlUi_Include_Windows.h']]],
-  ['none_4',['none',['../RmlUi__Renderer__GL3_8cpp.html#aef39ea06ec027f46e65b8280775df70aa6adf97f83acf6453d4a6a4b1070f3754',1,'None:&#160;RmlUi_Renderer_GL3.cpp'],['../namespaceGfx.html#a6a8eacf67f9e951ff855489fe86edb52a6adf97f83acf6453d4a6a4b1070f3754',1,'Gfx::None']]],
-  ['num_5fcomponents_5',['num_components',['../structRendererExtensions_1_1Image.html#aee8ea434c97b86998cd9b328686511b0',1,'RendererExtensions::Image']]],
-  ['numstops_6',['NumStops',['../RmlUi__Renderer__GL3_8cpp.html#adad77d2c16c419d8ae9cc19e7d849fd5a29d3027c8135c540ab52081682bca384',1,'RmlUi_Renderer_GL3.cpp']]]
+  ['offset_0',['offset',['../structCompiledFilter.html#a2d6ab6caac25d371663179a48e36a817',1,'CompiledFilter']]],
+  ['onchildadd_1',['onchildadd',['../classElementClipboard.html#a8461b3fa638449d6304fdcd7488516f4',1,'ElementClipboard::OnChildAdd()'],['../classElementEdit.html#a98b11a1e8c613328511af27e1d8ac1ed',1,'ElementEdit::OnChildAdd()'],['../classElementFileManager.html#a680ebc15f33742c7fa6ca75962f27df5',1,'ElementFileManager::OnChildAdd()'],['../classElementShortcuts.html#a55947f7f8cff2382039269578257d355',1,'ElementShortcuts::OnChildAdd()']]],
+  ['onchildremove_2',['onchildremove',['../classElementClipboard.html#acd3cfc4b450c297cc262714c3558ec4f',1,'ElementClipboard::OnChildRemove()'],['../classElementEdit.html#a4c92f6213236602b6e1dc67337b1d9e6',1,'ElementEdit::OnChildRemove()'],['../classElementFileManager.html#ada3153f60bc6d55929ebffaca1ce5492',1,'ElementFileManager::OnChildRemove()'],['../classElementShortcuts.html#ad51df560b41eb111fd46ed93d8571214',1,'ElementShortcuts::OnChildRemove()']]],
+  ['ondetach_3',['OnDetach',['../classEventListener.html#acdd6b655ccc40ef3f4099596769204c8',1,'EventListener']]],
+  ['onrender_4',['onrender',['../classElementFileManager.html#a9f2c890bde021a5ab722082d4d7b3f47',1,'ElementFileManager::OnRender()'],['../classElementShortcuts.html#a4ef4b6ea63700a6880d3ee22047fb8a7',1,'ElementShortcuts::OnRender()'],['../classElementEdit.html#aa58938ab9c703f61de762c2ea6ea5015',1,'ElementEdit::OnRender()'],['../classElementClipboard.html#a1ba881625028677a3702b0d1f8c30ebc',1,'ElementClipboard::OnRender()']]],
+  ['onsystemclipboardchanged_5',['OnSystemClipboardChanged',['../classClipboardListener.html#a05cf8dee89f49295bbb12d0ebf763964',1,'ClipboardListener']]],
+  ['onupdate_6',['onupdate',['../classElementClipboard.html#a511d4e2d2da364ab20d66769089c8804',1,'ElementClipboard::OnUpdate()'],['../classElementEdit.html#a17b63986da01128b656d844e3107257e',1,'ElementEdit::OnUpdate()'],['../classElementFileManager.html#ae81994d3f426669d1703f2070e678e73',1,'ElementFileManager::OnUpdate()'],['../classElementShortcuts.html#a94a100bfe7dcb57c50c2e23303a6944a',1,'ElementShortcuts::OnUpdate()']]],
+  ['open_7',['Open',['../classShellFileInterface.html#a5fa137245fd26a9498cb3254c591859d',1,'ShellFileInterface']]],
+  ['operator_20bool_8',['operator bool',['../classRenderInterface__GL3.html#a989b6e27da894015ade503aba6afdd8d',1,'RenderInterface_GL3']]],
+  ['operator_3d_3d_9',['operator==',['../classKeyShortCut.html#a2b8d1639623f944d6210276155016bb6',1,'KeyShortCut']]],
+  ['operator_5b_5d_10',['operator[]',['../classGfx_1_1EnumArray.html#ad22f40192a6f894a6e9d8e1981b99c22',1,'Gfx::EnumArray::operator[](Enum id) const'],['../classGfx_1_1EnumArray.html#a4f69a44db2d9e37df0c75a242cb694ce',1,'Gfx::EnumArray::operator[](Enum id)']]],
+  ['owns_5fdepth_5fstencil_5fbuffer_11',['owns_depth_stencil_buffer',['../structGfx_1_1FramebufferData.html#a888df663964e0c7b13583679ff4e0902',1,'Gfx::FramebufferData']]]
 ];

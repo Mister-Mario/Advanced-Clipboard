@@ -12,12 +12,11 @@ var searchData=
   ['colourmaplength_9',['colourMapLength',['../structTGAHeader.html#a9128d6f03bf87ad3b348c6e1333bc619',1,'TGAHeader']]],
   ['colourmaporigin_10',['colourMapOrigin',['../structTGAHeader.html#ad8bd861d455ebb46345e11f816464f9d',1,'TGAHeader']]],
   ['colourmaptype_11',['colourMapType',['../structTGAHeader.html#aabc3f0834122573abf1735d35a4afce0',1,'TGAHeader']]],
-  ['contextclipboardxx_12',['contextclipboardxx',['../EventManager_8cpp.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp'],['../ElementShortCuts_8cpp.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp'],['../ElementFileManager_8cpp.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp'],['../ElementEdit_8cpp.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp'],['../ElementClipboard_8cpp.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp'],['../RmlUi__Backend__SDL__GL3_8cpp.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp'],['../ClipboardXX_8h.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp'],['../ClipboardXX_8cpp.html#a1e90838124fbd5d85ddbc94e32318efb',1,'contextClipboardXX:&#160;ClipboardXX.cpp']]],
-  ['cursor_5fcross_13',['cursor_cross',['../classSystemInterface__SDL.html#a50eea85ac48811b36ed505649c6c388b',1,'SystemInterface_SDL']]],
-  ['cursor_5fdefault_14',['cursor_default',['../classSystemInterface__SDL.html#a197745a9901a0c8b94cc678beb483cc5',1,'SystemInterface_SDL']]],
-  ['cursor_5fmove_15',['cursor_move',['../classSystemInterface__SDL.html#a531e9cb006844fb14b3b97fb43d0c585',1,'SystemInterface_SDL']]],
-  ['cursor_5fpointer_16',['cursor_pointer',['../classSystemInterface__SDL.html#a95c69b31b5a163b3290564522a9b42c3',1,'SystemInterface_SDL']]],
-  ['cursor_5fresize_17',['cursor_resize',['../classSystemInterface__SDL.html#abddb3439b5ea137d0b5e1ba3a49056e4',1,'SystemInterface_SDL']]],
-  ['cursor_5ftext_18',['cursor_text',['../classSystemInterface__SDL.html#a130694a8d981e3c2a631403633054ec4',1,'SystemInterface_SDL']]],
-  ['cursor_5funavailable_19',['cursor_unavailable',['../classSystemInterface__SDL.html#a5dffc0ae42e0c7ff93928c5a79158f8f',1,'SystemInterface_SDL']]]
+  ['cursor_5fcross_12',['cursor_cross',['../classSystemInterface__SDL.html#a50eea85ac48811b36ed505649c6c388b',1,'SystemInterface_SDL']]],
+  ['cursor_5fdefault_13',['cursor_default',['../classSystemInterface__SDL.html#a197745a9901a0c8b94cc678beb483cc5',1,'SystemInterface_SDL']]],
+  ['cursor_5fmove_14',['cursor_move',['../classSystemInterface__SDL.html#a531e9cb006844fb14b3b97fb43d0c585',1,'SystemInterface_SDL']]],
+  ['cursor_5fpointer_15',['cursor_pointer',['../classSystemInterface__SDL.html#a95c69b31b5a163b3290564522a9b42c3',1,'SystemInterface_SDL']]],
+  ['cursor_5fresize_16',['cursor_resize',['../classSystemInterface__SDL.html#abddb3439b5ea137d0b5e1ba3a49056e4',1,'SystemInterface_SDL']]],
+  ['cursor_5ftext_17',['cursor_text',['../classSystemInterface__SDL.html#a130694a8d981e3c2a631403633054ec4',1,'SystemInterface_SDL']]],
+  ['cursor_5funavailable_18',['cursor_unavailable',['../classSystemInterface__SDL.html#a5dffc0ae42e0c7ff93928c5a79158f8f',1,'SystemInterface_SDL']]]
 ];

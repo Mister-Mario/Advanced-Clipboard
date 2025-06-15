@@ -17,7 +17,7 @@ var searchData=
   ['getkeyshortcutpaste_14',['getkeyshortcutpaste',['../classClipboardAdapter.html#a2288350b9271bdf7efa11fae7f52eeab',1,'ClipboardAdapter::getKeyShortCutPaste()'],['../classClipboardInterface.html#adb51da9d16f59d241709c209424d91cf',1,'ClipboardInterface::getKeyShortCutPaste()'],['../classMemoryCell.html#a459049a156913cd772799814afa17c91',1,'MemoryCell::getKeyShortCutPaste()']]],
   ['getlastfile_15',['getLastFile',['../classFileManager.html#aed2839b3df848109815caffed42cabd3',1,'FileManager']]],
   ['getlayer_16',['GetLayer',['../classRenderInterface__GL3_1_1RenderLayerStack.html#a56307880d464f8b1a0571a9288265755',1,'RenderInterface_GL3::RenderLayerStack']]],
-  ['getmemorycell_17',['getmemorycell',['../classShortCutsViewModel.html#a23128e8a15b05f6e5a18d461ede4357f',1,'ShortCutsViewModel::getMemoryCell()'],['../classMemoryCellManager.html#a3c5f8690854ba9eeeb3bf600a12ebacb',1,'MemoryCellManager::getMemoryCell(size_t index)']]],
+  ['getmemorycell_17',['getmemorycell',['../classMemoryCellManager.html#a3c5f8690854ba9eeeb3bf600a12ebacb',1,'MemoryCellManager::getMemoryCell()'],['../classShortCutsViewModel.html#a23128e8a15b05f6e5a18d461ede4357f',1,'ShortCutsViewModel::getMemoryCell()']]],
   ['getmemorycellcount_18',['getMemoryCellCount',['../classMemoryCellManager.html#a80eabbb79ea7735c863c7ef6cee62c92',1,'MemoryCellManager']]],
   ['getnewshortcut_19',['GetNewShortCut',['../classEditViewModel.html#a7e4242988e45c326ee53efc245a7ec28',1,'EditViewModel']]],
   ['getpasteshortcut_20',['GetPasteShortCut',['../classKeyShortCutManager.html#a38cd31076dd6fbcfdf6d15112eaa9317',1,'KeyShortCutManager']]],
@@ -25,7 +25,7 @@ var searchData=
   ['getpostprocesssecondary_22',['GetPostprocessSecondary',['../classRenderInterface__GL3_1_1RenderLayerStack.html#a66e0835a8d26b007423c6fb49e67957a',1,'RenderInterface_GL3::RenderLayerStack']]],
   ['getpostprocesstertiary_23',['GetPostprocessTertiary',['../classRenderInterface__GL3_1_1RenderLayerStack.html#a43b388a60b2f5d5b0686296156921b12',1,'RenderInterface_GL3::RenderLayerStack']]],
   ['getrenderinterface_24',['GetRenderInterface',['../namespaceBackend.html#a4ecd6822e0c21598206e2033fb88945f',1,'Backend']]],
-  ['getselectedcell_25',['getselectedcell',['../classMemoryCellManager.html#a9cacc616a3e4dbafe49514728ac63da4',1,'MemoryCellManager::getSelectedCell()'],['../classShortCutsViewModel.html#a02cdd96de3cd247f12226c0e05344e7c',1,'ShortCutsViewModel::getSelectedCell()']]],
+  ['getselectedcell_25',['getselectedcell',['../classShortCutsViewModel.html#a02cdd96de3cd247f12226c0e05344e7c',1,'ShortCutsViewModel::getSelectedCell()'],['../classMemoryCellManager.html#a9cacc616a3e4dbafe49514728ac63da4',1,'MemoryCellManager::getSelectedCell()']]],
   ['getselectedcellindex_26',['getSelectedCellIndex',['../classShortCutsViewModel.html#aba2fc3b147b9843cf21beed86829d93c',1,'ShortCutsViewModel']]],
   ['getselectedshortcut_27',['GetSelectedShortCut',['../classEditViewModel.html#a9ad21f487f7be3dd3da8766e711cfb3f',1,'EditViewModel']]],
   ['getshortcut_28',['getShortCut',['../classKeyShortCut.html#a0382b3c38a69b0dc1152e361b18e72b0',1,'KeyShortCut']]],
@@ -36,9 +36,5 @@ var searchData=
   ['gettoplayer_33',['GetTopLayer',['../classRenderInterface__GL3_1_1RenderLayerStack.html#afde0772c8912203e15d34dcca75f0a11',1,'RenderInterface_GL3::RenderLayerStack']]],
   ['gettoplayerhandle_34',['GetTopLayerHandle',['../classRenderInterface__GL3_1_1RenderLayerStack.html#a4675858cb2134b060b366a5fb64941c3',1,'RenderInterface_GL3::RenderLayerStack']]],
   ['gettransform_35',['GetTransform',['../classRenderInterface__GL3.html#a9936d772bdf698d6ff1e11bd7e4f0165',1,'RenderInterface_GL3']]],
-  ['getuniformlocation_36',['GetUniformLocation',['../classRenderInterface__GL3.html#a6b37aaddf0a29f1c1ef956fe3cbaa011',1,'RenderInterface_GL3']]],
-  ['gladloaderloadgl_37',['gladLoaderLoadGL',['../RmlUi__Include__GL3_8h.html#a86c588eb92c6d5019ce7d786d983b7f4',1,'RmlUi_Include_GL3.h']]],
-  ['gladloaderunloadgl_38',['gladLoaderUnloadGL',['../RmlUi__Include__GL3_8h.html#a7d2ab95110a4b5028eec9c4110c77526',1,'RmlUi_Include_GL3.h']]],
-  ['gladloadgl_39',['gladLoadGL',['../RmlUi__Include__GL3_8h.html#a7994567e82772589f6e507f74300bac0',1,'RmlUi_Include_GL3.h']]],
-  ['gladloadgluserptr_40',['gladLoadGLUserPtr',['../RmlUi__Include__GL3_8h.html#a4de5bc43a681f09e7ff7868efb4d2092',1,'RmlUi_Include_GL3.h']]]
+  ['getuniformlocation_36',['GetUniformLocation',['../classRenderInterface__GL3.html#a6b37aaddf0a29f1c1ef956fe3cbaa011',1,'RenderInterface_GL3']]]
 ];

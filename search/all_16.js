@@ -1,24 +1,8 @@
 var searchData=
 [
-  ['v_0',['v',['../structCompiledShader.html#ab034cff5952cec6ab871766f8e30bd09',1,'CompiledShader::v'],['../RmlUi__Renderer__GL3_8cpp.html#adad77d2c16c419d8ae9cc19e7d849fd5a5206560a306a2e085a437fd258eb57ce',1,'V:&#160;RmlUi_Renderer_GL3.cpp']]],
-  ['value_1',['value',['../classEventListener.html#a6431153613717b80a9d3d1a99a3204fe',1,'EventListener::value'],['../RmlUi__Renderer__GL3_8cpp.html#adad77d2c16c419d8ae9cc19e7d849fd5a689202409e48743b914713f96d93947c',1,'Value:&#160;RmlUi_Renderer_GL3.cpp']]],
-  ['value_5fmask_2',['value_mask',['../structRenderInterface__GL3_1_1GLStateBackup_1_1Stencil.html#ae150147c38177c7f0bbe79b6bf0242e2',1,'RenderInterface_GL3::GLStateBackup::Stencil']]],
-  ['vao_3',['vao',['../structGfx_1_1CompiledGeometryData.html#a162220f4cc2564b40b80e304ebe91f49',1,'Gfx::CompiledGeometryData']]],
-  ['vbo_4',['vbo',['../structGfx_1_1CompiledGeometryData.html#abb99961a9abb529c95288d73f6aed7d8',1,'Gfx::CompiledGeometryData']]],
-  ['vert_5fshader_5',['vert_shader',['../structGfx_1_1ProgramDefinition.html#a55a2e805cc1bfe2707f039c5fe2d7b9d',1,'Gfx::ProgramDefinition']]],
-  ['vert_5fshader_5fdefinitions_6',['vert_shader_definitions',['../namespaceGfx.html#a68a61129bdfd1c160ea75adadb0ddfa3',1,'Gfx']]],
-  ['vert_5fshaders_7',['vert_shaders',['../structGfx_1_1ProgramData.html#a63e40ea37847f9062d2176daa3c07e5c',1,'Gfx::ProgramData']]],
-  ['vertex_5fattribute_5fnames_8',['vertex_attribute_names',['../namespaceGfx.html#a541e61525d44f29695430046fe722d75',1,'Gfx']]],
-  ['vertexattribute_9',['VertexAttribute',['../namespaceGfx.html#a18823fdafde60692d4eeac379b903b06',1,'Gfx']]],
-  ['verticallyflipped_10',['VerticallyFlipped',['../RmlUi__Renderer__GL3_8cpp.html#a0ad8e469e2f69da3b841d3cdb47a9f20',1,'RmlUi_Renderer_GL3.cpp']]],
-  ['vertshaderdefinition_11',['VertShaderDefinition',['../structGfx_1_1VertShaderDefinition.html',1,'Gfx']]],
-  ['vertshaderid_12',['VertShaderId',['../RmlUi__Renderer__GL3_8cpp.html#a31a58e9ede5df1dcf7c52d5f494e7018',1,'RmlUi_Renderer_GL3.cpp']]],
-  ['vertshaders_13',['VertShaders',['../namespaceGfx.html#ae4076fe4c166351ac845c6fc8023d151',1,'Gfx']]],
-  ['viewindex_14',['viewIndex',['../classShortCutsViewModel.html#a5613ee64c27f393ac9cc7fa95e941ca9',1,'ShortCutsViewModel']]],
-  ['viewmodel_15',['viewmodel',['../classElementShortcuts.html#ad22728efea03404d990e2c536f6b8905',1,'ElementShortcuts::viewModel'],['../classElementEdit.html#aa637ab96e6519ca74417d4dc914fe393',1,'ElementEdit::viewModel']]],
-  ['viewport_16',['viewport',['../structRenderInterface__GL3_1_1GLStateBackup.html#aafcb5358c092c17ce20a5e282b5e4e09',1,'RenderInterface_GL3::GLStateBackup']]],
-  ['viewport_5fheight_17',['viewport_height',['../classRenderInterface__GL3.html#a917b8758f79ac12643b963fc30d68221',1,'RenderInterface_GL3']]],
-  ['viewport_5foffset_5fx_18',['viewport_offset_x',['../classRenderInterface__GL3.html#abc75d3a65da4e7e7aad72c8e474ce9f2',1,'RenderInterface_GL3']]],
-  ['viewport_5foffset_5fy_19',['viewport_offset_y',['../classRenderInterface__GL3.html#ade882e8b59b60abecc140dd9842ba50f',1,'RenderInterface_GL3']]],
-  ['viewport_5fwidth_20',['viewport_width',['../classRenderInterface__GL3.html#a4d4452a61c9a153f6ecfeae461e274b9',1,'RenderInterface_GL3']]]
+  ['width_0',['width',['../structGfx_1_1FramebufferData.html#a8dfacc691e3884c8a56ab6de72b7d3aa',1,'Gfx::FramebufferData::width'],['../structTGAHeader.html#af0938de1c7c245cf7349f4e60d68e62f',1,'TGAHeader::width'],['../classRenderInterface__GL3_1_1RenderLayerStack.html#aff039a379ff5b7037766281b625b731b',1,'RenderInterface_GL3::RenderLayerStack::width'],['../structRendererExtensions_1_1Image.html#a3f638a7daaca56244c2649ada7efb2fe',1,'RendererExtensions::Image::width']]],
+  ['window_1',['window',['../structBackendData.html#ad7d03341cf5e716403a2a28299cae4dd',1,'BackendData::window'],['../classSystemInterface__SDL.html#a0123b0e654329cd08dc8c364dd50f702',1,'SystemInterface_SDL::window']]],
+  ['windowfocusevent_2',['windowfocusevent',['../classWindowFocusEvent.html',1,'WindowFocusEvent'],['../classWindowFocusEvent.html#a0189c94a527d605daa28cfa02d5e6f4a',1,'WindowFocusEvent::WindowFocusEvent()']]],
+  ['writemask_3',['writemask',['../structRenderInterface__GL3_1_1GLStateBackup_1_1Stencil.html#a29daa7e7c1497e0693328754bd567383',1,'RenderInterface_GL3::GLStateBackup::Stencil']]],
+  ['writeshortcuts_4',['WriteShortCuts',['../classKeyShortCutManager.html#ae4854270b51cebb732d6b6b87aefd295',1,'KeyShortCutManager']]]
 ];

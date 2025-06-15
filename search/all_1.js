@@ -7,7 +7,5 @@ var searchData=
   ['addcallback_4',['AddCallback',['../classClipboardListener.html#a99ab21702f575f1ec5325bb8d2405ebc',1,'ClipboardListener']]],
   ['addmemorycell_5',['addMemoryCell',['../classMemoryCellManager.html#ad1ade42f37cd2b39f0bd2989c0ed1b79',1,'MemoryCellManager']]],
   ['attach_6',['Attach',['../classWindowFocusEvent.html#a6856a166e2a92e0d08f5d59be207b5f8',1,'WindowFocusEvent']]],
-  ['autocopyevent_7',['autocopyevent',['../classAutoCopyEvent.html',1,'AutoCopyEvent'],['../classAutoCopyEvent.html#aed6e4660b0ef0cd7f3cb9f968d21b23e',1,'AutoCopyEvent::AutoCopyEvent()']]],
-  ['autocopyevent_2ecpp_8',['AutoCopyEvent.cpp',['../AutoCopyEvent_8cpp.html',1,'']]],
-  ['autocopyevent_2eh_9',['AutoCopyEvent.h',['../AutoCopyEvent_8h.html',1,'']]]
+  ['autocopyevent_7',['autocopyevent',['../classAutoCopyEvent.html',1,'AutoCopyEvent'],['../classAutoCopyEvent.html#aed6e4660b0ef0cd7f3cb9f968d21b23e',1,'AutoCopyEvent::AutoCopyEvent()']]]
 ];

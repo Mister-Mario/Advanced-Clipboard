@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['blendmask_0',['blendmask',['../RmlUi__Renderer__GL3_8cpp.html#aef39ea06ec027f46e65b8280775df70aab8e0deafc483b3dbd367e162c774634d',1,'BlendMask:&#160;RmlUi_Renderer_GL3.cpp'],['../RmlUi__Renderer__GL3_8cpp.html#a630a8aba1ff1cb02f04423d6dbe7a0c6ab8e0deafc483b3dbd367e162c774634d',1,'BlendMask:&#160;RmlUi_Renderer_GL3.cpp']]],
-  ['blur_1',['blur',['../RmlUi__Renderer__GL3_8cpp.html#aef39ea06ec027f46e65b8280775df70aa8b52de510bc5497ac43abfe566be48ab',1,'Blur:&#160;RmlUi_Renderer_GL3.cpp'],['../RmlUi__Renderer__GL3_8cpp.html#a31a58e9ede5df1dcf7c52d5f494e7018a8b52de510bc5497ac43abfe566be48ab',1,'Blur:&#160;RmlUi_Renderer_GL3.cpp'],['../RmlUi__Renderer__GL3_8cpp.html#a630a8aba1ff1cb02f04423d6dbe7a0c6a8b52de510bc5497ac43abfe566be48ab',1,'Blur:&#160;RmlUi_Renderer_GL3.cpp'],['../RmlUi__Renderer__GL3_8cpp.html#a7ef0ab496f57e183b484e62e2053c94fa8b52de510bc5497ac43abfe566be48ab',1,'Blur:&#160;RmlUi_Renderer_GL3.cpp']]]
+  ['color0_0',['Color0',['../namespaceGfx.html#a18823fdafde60692d4eeac379b903b06aa0a1f5336d1ce1e6ed36df3ae4ea3a5a',1,'Gfx']]],
+  ['count_1',['Count',['../namespaceGfx.html#a18823fdafde60692d4eeac379b903b06ae93f994f01c537c4e2f7d8528c3eb5e9',1,'Gfx']]]
 ];
